@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxLearn
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript, Html and CSS
+- 👀 I’m a web developer
+- 🌱 I’m currently learning everything
 
 <!---
 MaxLearn/MaxLearn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
